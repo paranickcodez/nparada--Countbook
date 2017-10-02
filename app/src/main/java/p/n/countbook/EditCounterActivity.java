@@ -45,7 +45,7 @@ import java.util.ArrayList;
 public class EditCounterActivity extends MasterCounterListControl {
     public static final String EXTRA_MESSAGE = "com.int.countbook.MESSAGE";
     public static final String CNTR_STREAM = "com.int.countbook.STREAM";
-    protected int itemkey;
+    private int itemkey;
     private Counter counter;
     private EditText NameEdit;
     private EditText CountEdit;
