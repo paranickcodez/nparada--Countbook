@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">nparada--CountBook</string>
+    <string name="init_name">Name</string>
+    <string name="set_count">Item Count</string>
+    <string name="reset_init_count">Default Count</string>
+    <string name="init_comment">Add Comment</string>
+    <string name="button_new">New Counter +</string>
+    <string name="button_save">Save Changes</string>
+    <string name="button_edit">Edit All</string>
+    <string name="button_Refresh">Reset to</string>
+    <string name="button_delete">Delete</string>
+    <string name="Counter_name"> Counter</string>
+    <string name="Count">Count: </string>
+    <string name="StCount">Start Count: </string>
+    <string name="Comment">Comment: </string>
+    <string name="Date">Last Modified: </string>
+</resources>
